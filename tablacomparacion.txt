@@ -1,0 +1,23 @@
+	OpenStreetMap
+	Polymaps
+	Openlayers
+	MapBox
+Características	- Crea mapas editables y libres.
+
+-Los mapas se crean utilizando información geográfica capturada con dispositivos GPS móviles.
+
+- Crea y corrige datos vectoriales mediante herramientas de edición.	- Usa una librería JavaScript libre.
+
+- Proporciona una visualización rápida de conjuntos de datos
+
+- La publicación de información es muy fácil	- Usa la biblioteca de JavaScript de código abierto.
+
+- Muestra mapas interactivos en los navegadores web.
+
+-Ofrece un API para acceder a diferentes fuentes de información cartográfica en la red	-Diseña los mapas en la nube.
+
+ -Publicación rápida.
+
+- Utiliza los datos de callejero de OpenStreetMap.
+
+- Tiene un plan gratuito con 50MB de almacenamiento
