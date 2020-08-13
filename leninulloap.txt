@@ -1,0 +1,37 @@
+GPStrackstick:
+ 
+Un GPS tracker, conocido también como GPS para carros, es un dispositivo que se instala en las unidades de su flotilla vehicular para registrar su ubicación a través de señales móviles, por medio de la instalación de una tarjeta SIM en el dispositivo. 
+ A nivel global, la información recopilada por un GPS tracker es respaldada por la puesta en órbita de 24 satélites, los cuales completan dos vueltas diarias alrededor de la Tierra.
+Este pequeño aparato de geolocalización trae incorporado un USB para que puedas descargar en tu computadora toda la información geográfica recabada.
+
+Funcionamiento 
+La señal enviada por el GPS tracker viaja a la velocidad de la luz, por lo que los datos pueden ser vistos instantáneamente. Una vez el dispositivo detecta la distancia hacia los satélites, usted puede apoyarse en los recursos de geometría y geografía brindados por estos.
+ 
+Este proceso se asemeja a la unión de los puntos de un triángulo, los datos coinciden con las señales enviadas de 3 a 24 satélites para especificar coordenadas y así visualizar en una plataforma de mapa la información requerida para ejecutar el monitoreo del GPS para carros.
+ 
+Uno de los parámetros a tomar en cuenta para la instalación de un GPS tracker es la calidad técnica para enviar y recibir señales, pues es clave que la información esté disponible todo el tiempo, a pesar de obstáculos físicos como: túneles o parqueos subterráneos.
+El Trackstick registra continuamente su ruta exacta, tiempos de parada, velocidad, dirección, altitud y otra información valiosa, que se puede descargar y ver rápidamente en su computadora. El registrador de temperatura integrado garantiza que todos los aspectos de su entorno estén siendo monitoreados. Un detector de vibraciones, combinado con la tecnología patentada de GPS de baja potencia, hace que Trackstick Mini sea el rastreador GPS de más larga duración en el mercado. Lo mejor de todo es que ya no es necesario cambiar las baterías. El Trackstick Mini funciona con una batería de iones de litio incorporada que se puede recargar en aproximadamente una hora a través del puerto USB de su computadora. No se requieren tarifas mensuales y Trackstick Manager, el software de seguimiento y etiquetado de fotos geográficas más avanzado del mercado.
+On board diagnostic
+ 
+OBD significa Sistema de Diagnostico Abordo en español, y el «II» en su nombre se debe a una actualización y mejora en la versión.
+Los rastreadores GPS integrados con OBD II son similares a los GPS para automóviles tradicionales; sin embargo, al ser capaces de leer fallas del motor y sistemas del automóvil, superan y se diferencian en ciertos aspectos a un rastreador permanente.
+cuentan con una instalación rápida y sencilla para que incluso el dueño del coche puede incorporarlo a su vehículo sin ayuda de un profesional;
+permite portabilidad, ya que da la posibilidad de cambiar el dispositivo de un auto a otro de manera constante;
+el tipo de fácil instalación es visible, a diferencia del de instalación permanente que cuenta con una instalación oculta;
+Funcionamiento
+El switch de ignición del GPS de fácil instalación se marca cuando el acelerómetro detecta el avance de la unidad, mientras que en el GPS de instalación permanente lo marca cuando se enciende físicamente el switch de ignición del vehículo.
+Este tipo de GPS de fácil instalación es un equipo diseñado para el monitoreo y seguimiento de automóviles y permite obtener datos de:
+el motor,la posición del auto,la fecha, hora y velocidad de manejo cada vez que el vehículo circule y se detenga, tenga un giro mayor a 80° y cada 6 minutos de circulación en línea recta.
+Además, es posible obtener información referente al vehículo en el cual se instalará el equipo, como por ejemplo el kilometraje recorrido, las revoluciones por minuto, entre otros. Solo basta con conectarlo al puerto OBD del vehículo, todos los coches tienen integrado este puerto.
+Aplicaciones que permite:
+El Equipo OBD II tiene 3 aplicaciones principales, las cuales son:
+seguridad del vehículo y conductor;
+cumplimiento de logística planeada;
+hábitos de manejo del conductor.
+Este equipo de rastreo satelital es de tipo activo y envía información a un equipo remoto mediante alertas, a través de las cuales se descubre, conoce y controla si hubo:
+desvíos de la ruta prevista;
+paradas con un tiempo superior al autorizado;
+alguna salida o entrada sin autorización a la zona de estadía (geocercas);
+circulación de unidad en horario no autorizado;
+un mal hábito de manejo de parte del conductor, como aceleraciones, frenadas, vueltas bruscas y excesos de velocidad, choques.
+Ten en cuenta que la información y lecturas que aportan los GPS de fácil instalación (OBD II) varían conforme al modelo y plataforma de rastreo satelital de su fabricante.
