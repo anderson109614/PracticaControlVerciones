@@ -1,3 +1,4 @@
 Tema:Mecanismos de geolocalización para trazabilidad de operaciones logísticas.
 Integrantes:
     -Anderson Naranjo
+    -Cristian Llerena
