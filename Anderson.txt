@@ -1,0 +1,60 @@
+SinoTranck ST-901
+ 
+
+ 
+ 
+Traccar
+ 
+ 
+Commands
+Install unzip utility and MySQL server
+apt update && apt -y install unzip mysql-server
+
+Set database password and create a new database
+mysql -u root --execute="ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'root'; GRANT ALL ON *.* TO 'root'@'localhost' WITH GRANT OPTION; FLUSH PRIVILEGES; CREATE DATABASE traccar;"
+
+Download the latest installer
+wget https://www.traccar.org/download/traccar-linux-64-latest.zip
+
+Unzip the file and run the installer
+unzip traccar-linux-*.zip && ./traccar.run
+
+Update the configuration file to use MySQL database
+cat > /opt/traccar/conf/traccar.xml << EOF
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!DOCTYPE properties SYSTEM 'http://java.sun.com/dtd/properties.dtd'>
+
+<properties>
+
+    <entry key="config.default">./conf/default.xml</entry>
+
+    <entry key='database.driver'>com.mysql.jdbc.Driver</entry>
+    <entry key='database.url'>jdbc:mysql://localhost/traccar?serverTimezone=UTC&amp;useSSL=false&amp;allowMultiQueries=true&amp;autoReconnect=true&amp;useUnicode=yes&amp;characterEncoding=UTF-8&amp;sessionVariables=sql_mode=''</entry>
+    <entry key='database.user'>root</entry>
+    <entry key='database.password'>root</entry>
+
+</properties>
+EOF
+Start Traccar service
+service traccar start
+
+
+
+
+
+
+
+
+
+Claro 2G
+ 
+
+https://articulo.mercadolibre.com.ec/MEC-425982519-gps-rastreador-para-carro-y-moto-sinotrack-901-con-acc-_JM?quantity=1#position=12&type=item&tracking_id=9d7f36b0-4dc2-4c9e-b5c0-aeb0d1eeb3f3
+http://www.fpv1.ru/up/ST-901%20User%20Manual.pdf
+https://stackoverflow.com/questions/50852202/sending-the-gps-data-from-the-tracker-to-python-server-using-socket
+https://www.traccar.org/install-digitalocean/
+https://www.traccar.org/traccar-api/
+https://www.youtube.com/watch?v=9nBgEtMEuus&list=PLeiD4KBkiJ6qtXTLdWd2HEyBngfG8VJ7L&index=3
+https://www.my-gps.org/294-sinotrack-st901-configurar
+
